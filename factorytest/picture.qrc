@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/png">
+        <file>image/1.png</file>
+        <file>image/appico.ico</file>
+        <file>image/2.ico</file>
+        <file>image/3.ico</file>
+        <file>image/error.ico</file>
+        <file>image/exit.png</file>
+        <file>image/max1.png</file>
+        <file>image/max2.png</file>
+        <file>image/menu.png</file>
+        <file>image/min.png</file>
+        <file>image/next.png</file>
+        <file>image/refresh.png</file>
+        <file>image/return.png</file>
+        <file>image/success.png</file>
+        <file>image/tf.png</file>
+        <file>image/warning.png</file>
+        <file>image/WndZoom.png</file>
+        <file>image/HD.png</file>
+        <file>image/4G.png</file>
+        <file>image/printer.png</file>
+        <file>image/focus.png</file>
+        <file>image/peizhi.png</file>
+        <file>image/light.png</file>
+        <file>image/sensor.png</file>
+        <file>image/中国移动.png</file>
+    </qresource>
+</RCC>
